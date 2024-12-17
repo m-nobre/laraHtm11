@@ -32,7 +32,6 @@ yarn-error.log
 .gitconfig
 .htpasswds
 .htaccess
-.gitignore
 .lastlogin
 .local
 .pearrc
